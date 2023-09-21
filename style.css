@@ -114,7 +114,7 @@ color: #030303;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
     position: absolute;
     left: 50%;
-    transform: translate(-50%) translateY(90px);
+    transform: translate(-50%) translateY(65px);
 }
 
 .home .heart i{
@@ -167,7 +167,7 @@ color: #030303;
 /* media extra large*/
 @media (max-width: 1200px) {
     .home .heart {
-        transform: translate(-50%) translateY(90px);
+        transform: translate(-50%) translateY(65px);
     }
 }
 /* media leptop*/
